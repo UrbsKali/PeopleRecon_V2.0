@@ -1,7 +1,7 @@
 # People Recon v2.0
 # Author: @linux_choice, upgraded by @UrbsKali
 # https://github.com/UrbsKali/PeopleRecon_V2.0
-Original : https://github.com/linux_choice/userrecon
+Original : https://github.com/thelinuxchoice/userrecon
 
 Find personne by they name and surname across over 75 social networks
 This is useful if you are running an investigation to stolke personne on different social networks.
