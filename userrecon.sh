@@ -1,7 +1,8 @@
 #!/bin/bash
-# UserRecon v1.0
-# Author: @linux_choice
-# https://github.com/thelinuxchoice/userrecon
+# PeopleRecon v2.0
+# Author: @linux_choice and upgraded by @UrbsKali
+# https://github.com/UrbsKali/PeopleRecon_V2.0
+# original : https://github.com/UrbsKali/userrecon
 # Give me the credits if you use any part of this code, read the License.
 
 trap 'printf "\n";partial;exit 1' 2
@@ -12,11 +13,11 @@ banner() {
 
 printf "                                                   \e[1;92m.-\"\"\"\"-. \e[0m\n"
 printf "                                                  \e[1;92m/        \ \e[0m\n"
-printf "\e[1;77m  _   _               ____                       \e[0m\e[1;92m/_        _\ \e[0m\n"
-printf "\e[1;77m | | | |___  ___ _ __|  _ \ ___  ___ ___  _ __  \e[0m\e[1;92m// \      / \\ \e[0m\n"
-printf "\e[1;77m | | | / __|/ _ \ '__| |_) / _ \/ __/ _ \| '_ \ \e[0m\e[1;92m|\__\    /__/| \e[0m\n"
-printf "\e[1;77m | |_| \__ \  __/ |  |  _ <  __/ (_| (_) | | | | \e[0m\e[1;92m\    ||    / \e[0m\n"
-printf "\e[1;77m  \___/|___/\___|_|  |_| \_\___|\___\___/|_| |_|  \e[0m\e[1;92m\        / \e[0m\n"
+printf "\e[1;77m    ___               ___           ____                       \e[0m\e[1;92m/_        _\ \e[0m\n"
+printf "\e[1;77m   | <>| ___    ___  | <>| _       |  _ \ ___  ___ ___  _ __  \e[0m\e[1;92m// \      / \\ \e[0m\n"
+printf "\e[1;77m   |___//  _ \ / _ \ |___/||       | |_) / _ \/ __/ _ \| '_ \ \e[0m\e[1;92m|\__\    /__/| \e[0m\n"
+printf "\e[1;77m   |   <  __/ | (_) ||    ||       |  _ <  __/ (_| (_) | | | | \e[0m\e[1;92m\    ||    / \e[0m\n"
+printf "\e[1;77m   |    \___|  \___/ |    |/       |_| \_\___|\___\___/|_| |_|  \e[0m\e[1;92m\        / \e[0m\n"
 printf "                   \e[1;92mv2.0, Author: @UrbsKali  \e[0m   \e[1;92m\  __  / \e[0m\n"
 printf "                                                    \e[1;92m'.__.' \e[0m\n"
                                                 
