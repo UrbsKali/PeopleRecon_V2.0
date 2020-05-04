@@ -2,7 +2,7 @@
 # Author: @linux_choice, upgraded by @UrbsKali
 # https://github.com/UrbsKali/PeopleRecon_V2.0 <br>
 Original : https://github.com/thelinuxchoice/userrecon <br>
-<b>WIP</b><br>
+# WIP, don't use now !! 
 Find personne by they name and surname across over 75 social networks<br>
 This is useful if you are running an investigation to stolke personne on different social networks.<br>
 
